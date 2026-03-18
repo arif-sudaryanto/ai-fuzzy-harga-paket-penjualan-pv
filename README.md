@@ -12,4 +12,4 @@ Overlap pada fungsi keanggotaan ini penting dalam sistem fuzzy karena memungkink
 ## Files
 - 02_Fuzzy_Penjualan_PV.ipynb
 - MK_Kecerdasan_Buatan_Report_3.pdf
-- membership,rule-firing-strength,fuzzy-surface plot images
+- membership input_output, rule-firing-strength, fuzzy-surface plot images
